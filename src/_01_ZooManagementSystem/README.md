@@ -1,4 +1,4 @@
-# JavaOOP01
+# OOP01
 ```
 A system created using polymorphism to keep track of information about animals in a zoo.
 ```
