@@ -7,7 +7,7 @@ A system created using polymorphism to keep track of information about animals i
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için 
 polymorphism kullanılarak oluşturulan bir sistem.
 ```
-![img.png](img.png)
+![img.png](ZooManagementSystemDescription.png)
 
 
 
