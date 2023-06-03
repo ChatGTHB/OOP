@@ -1,1 +1,3 @@
-# JavaOOPPractices
+# OOP Practices
+
+## UML Diagram Samples
