@@ -6,6 +6,6 @@ Elevator Simulation
 ```
 Asansör Simülasyonu
 ```
-![img.png](img.png)
+![img.png](ElevatorSimulationDescription.png)
 
 
